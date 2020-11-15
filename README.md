@@ -26,7 +26,7 @@ I'd like to begin by exploring the dataset to analyze various trends and pattern
 Using the populations data provided, a hypothesis would be tested to see if higher population leads to more infection rate. Comparisons will be made on how the differences in mortality has varied over time in different countries and whether mortality has improved which would be an indicator for betting procedures and treatment. An in depth analysis would be performed to answer various questions. A regression model would be used to estimate infection rate across a highly infection country of choice and would be used to identify how the models fits on dataset of other countries. A regression model is chose as it is effective is identifying relationship between features and their relavence in predictions.
 
 ### 3. Visualizing predictions
-In this part, the various analysis and the research questions identified will be answered using visualizations.
+In this part, the various analysis and the research questions analyzed above will be presented in form of visualizations.
 
 ## Related items
 [Preliminary Project Proposal](https://github.com/Sreejavm/DATA-512-final/blob/main/data-512-final/Final%20Project%20Preliminary%20Proposal.pdf)
