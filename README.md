@@ -29,5 +29,7 @@ Using the populations data provided, a hypothesis would be tested to see if high
 In this part, the various analysis and the research questions analyzed above will be presented in form of visualizations.
 
 ## Related items
-[Project Proposal](https://github.com/Sreejavm/DATA-512-final/blob/main/data-512-final/Final%20Project%20Proposal.pdf)
+
+[Project Proposal](https://github.com/Sreejavm/DATA-512-final/blob/main/data-512-final/Project%20Proposal.md)
+
 [Preliminary Project Proposal](https://github.com/Sreejavm/DATA-512-final/blob/main/data-512-final/Final%20Project%20Preliminary%20Proposal.pdf)
