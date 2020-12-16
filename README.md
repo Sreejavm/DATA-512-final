@@ -1,4 +1,4 @@
-# DATA-512 final project
+# DATA-512 final project- Analysis of COVID pandemic
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Abstract
