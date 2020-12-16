@@ -29,6 +29,13 @@ In this part, the various analysis and the research questions analyzed above wil
 
 - ./data-512-final/output -> ouptput jpeg files that are produced by the code
 
+## Conclusion
+The spread of coronavirus can be associated with political, economical and social aspects of these countries as they play a key role in the spread of the virus.
+
+In addition, more data on how following guidelines such as using face masks, maintaining social distancing and lockdown helped control the pandemic
+
+While this research focussed mostly on the total cased and the mortality associated with different countries, I’d like to explore more on the aspects of how treatment conditions and social regulation helped control the various aspects of pandemic
+
 ## License
 MIT licesnse
 
